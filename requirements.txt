@@ -1,4 +1,0 @@
-pandas
-seaborn
-ploty
-streamlit
