@@ -1,4 +1,3 @@
-libraries-
 pandas
 seaborn
 ploty
