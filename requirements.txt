@@ -1,0 +1,5 @@
+libraries-
+pandas
+seaborn
+ploty
+streamlit
